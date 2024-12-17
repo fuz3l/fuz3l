@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fuzail Mansuri
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on frontend web development projects
 - 📫 How to reach me fuzelxr@gmail.com
 - ⚡ Fun fact: 
