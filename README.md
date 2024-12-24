@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fuzail Mansuri
-- 👀 I’m interested in Web development
+- 👀 I’m interested in AI/ML/WEB DEVELOPMENT
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on frontend web development projects
 - 📫 How to reach me fuzelxr@gmail.com
