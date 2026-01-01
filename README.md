@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fuzail Mansuri
 - 👀 I’m interested in AI/Machine Learning/iOS Development
-- 🌱 I’m currently learning AI/ML.
+- 🌱 I’m currently learning mobile/iOS dev
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 💬 Have an Project idea? Reach me out at https://fuzailmansuri.com/contact
 - 📫 How to reach me https://fuzailmansuri.com or mail me @ fuzelxr@gmail.com
