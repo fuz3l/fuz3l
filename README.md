@@ -1,11 +1,8 @@
-
 # fuzail mansuri
 
-<p align="center">
-  <img src="hy.jpg" width="300" />
-</p>
-
----
+<table>
+<tr>
+<td width="55%">
 
 i build things that solve real problems.
 
@@ -17,6 +14,16 @@ but do complex things underneath.
 
 trying to get better at building —  
 and thinking.
+
+</td>
+
+<td width="45%">
+
+<img src="hy.jpg" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
