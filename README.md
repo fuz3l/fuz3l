@@ -2,7 +2,7 @@
 # fuzail mansuri
 
 <p align="center">
-  <img src="me.jpg" width="300" />
+  <img src="my.jpg" width="300" />
 </p>
 
 ---
