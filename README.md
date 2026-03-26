@@ -1,27 +1,44 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8d/6f/5e/8d6f5e8f3c6a8e4e8c9b1f6e2c4c7b8a.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/90/7e/7c/907e7c6b7a5c2c7c1a3c4e5d6f7a8b9c.gif" width="100%" />
 </p>
 
-<h3 align="center">fuzail</h3>
+# fuzail mansuri
 
 <p align="center">
-  building quiet digital experiences
+  <img src="me.jpg" width="300" />
 </p>
 
 ---
 
-<p align="center">
-  currently exploring —
-</p>
+i build things that solve real problems.
 
-<p align="center">
-  ideas, interfaces, and intentional design
-</p>
+most of the time, it's for small businesses.  
+sometimes, it's just curiosity.
+
+i’m interested in creating systems that feel simple on the surface  
+but do complex things underneath.
+
+trying to get better at building —  
+and thinking.
 
 ---
 
-<p align="center">
-  <a href="https://your-portfolio-link">portfolio</a> · 
-  <a href="mailto:your@email.com">email</a> · 
-  <a href="https://twitter.com/yourhandle">x</a>
-</p>
+### now
+
+working on real-world products  
+learning machine learning & systems  
+building tools that people can actually use  
+
+---
+
+### somewhere on the internet
+
+- portfolio — https://yourlink.com  
+- email — your@email.com  
+- x — https://twitter.com/yourhandle  
+
+---
+
+### note
+
+still figuring things out.
