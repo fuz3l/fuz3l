@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/7e/7c/907e7c6b7a5c2c7c1a3c4e5d6f7a8b9c.gif" width="100%" />
-</p>
 
 # fuzail mansuri
 
 <p align="center">
-  <img src="me1.jpg" width="300" />
+  <img src="me.jpg" width="300" />
 </p>
 
 ---
