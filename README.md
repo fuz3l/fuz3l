@@ -30,14 +30,13 @@
 
 **Building [X-not-ex](https://x-not-ex.netlify.app/)** — An X (Twitter) clone, rebuilt with the features it should've had.
 
-**Building** a beauty service marketplace — connecting clients with local beauty professionals. *(name TBD)*
+**Building** a beauty service marketplace — connecting clients with local beauty professionals. 
 
 ---
 
 ## Background
 
 - Started coding in **2021** at 17, first language: HTML, first editor: Brackets
-- Switched from Biology to Computer Science mid-degree — best decision I ever made
 - Currently pursuing **Master's in Computer Science & IT**
 
 ---
