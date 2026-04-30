@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hyy.jpg"  alt="Fuzail" />
+<img src="hyy.jpg" width="480px" alt="Fuzail" />
 
 </div>
 
